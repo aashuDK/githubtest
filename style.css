@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(H.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 90vh;
+    font-family: sans-serif;
+}
+.login{
+    width: 280px;
+    height: 370px;
+    background-color: black;
+    color: #FFF;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding:40px  25px;
+    border-radius: 10px;
+}
